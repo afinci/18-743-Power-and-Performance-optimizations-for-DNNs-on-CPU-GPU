@@ -1,0 +1,57 @@
+
+%
+%  $Description: Author guidelines and sample document in LaTeX 2.09$ 
+%
+%  $Author:Mark Blanco and Ahmet Fatih Inci $
+%  $Date: 2017/9/19 $
+%  $Revision: 1.?? $
+%
+
+\documentclass[times, 10pt,twocolumn]{article} 
+\usepackage{latex8}
+\usepackage{times}
+
+%\documentstyle[times,art10,twocolumn,latex8]{article}
+
+%------------------------------------------------------------------------- 
+% take the % away on next line to produce the final camera-ready version 
+\pagestyle{empty}
+
+%------------------------------------------------------------------------- 
+
+\begin{document}
+
+\title{Power/Performance Analysis and Optimization for Deep Learning on CPU-GPU Platforms}
+
+\author{Ahmet Fatih Inci and Ting-Wu Chin  \\
+Carnegie Mellon University\\ Department of Electrical and Computer Engineering \\ \{ainci, tingwuc\}@andrew.cmu.edu\\
+}
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+   The ABSTRACT is to be in fully-justified italicized text, at the top 
+   of the left-hand column, below the author and affiliation 
+   information. Use the word ``Abstract'' as the title, in 12-point 
+   Times, boldface type, centered relative to the column, initially 
+   capitalized. The abstract is to be in 10-point, single-spaced type. 
+   The abstract may be up to 3 inches (7.62 cm) long. Leave two blank 
+   lines after the Abstract, then begin the main text. 
+\end{abstract}
+
+\Section{Introduction}
+\input{"introduction.tex"}
+\Section{Objectives and Deliverables}
+\input{"objectives.tex"}
+\Section{Tasks and Timeline}
+\input{timeline.tex}
+\Section{Conclusion}
+\input{conclusion.tex}
+% If there are cited but unreferenced resources, place them in the brackets 
+% on the line below.
+% \nocite{}
+\bibliographystyle{latex8}
+\bibliography{latex8}
+
+\end{document}
+

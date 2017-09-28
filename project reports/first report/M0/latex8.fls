@@ -1,0 +1,6 @@
+PWD /Users/Afinci/Desktop/CMU/Fall 2017/18-743 Energy-Aware Computing/project reports/first report/M0
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT latex8.bib
+OUTPUT latex8.log
