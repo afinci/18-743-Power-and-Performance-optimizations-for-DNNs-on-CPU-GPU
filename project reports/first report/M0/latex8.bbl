@@ -6,6 +6,27 @@ Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
 \newblock Caffe: Convolutional architecture for fast feature embedding.
 \newblock {\em arXiv preprint arXiv:1408.5093}, 2014.
 
+\bibitem{malik2016architecture}
+M.~Malik, F.~Farahmand, P.~Otto, N.~Akhlaghi, T.~Mohsenin, S.~Sikdar, and
+  H.~Homayoun.
+\newblock Architecture exploration for energy-efficient embedded vision
+  applications: From general purpose processor to domain specific accelerator.
+\newblock In {\em VLSI (ISVLSI), 2016 IEEE Computer Society Annual Symposium
+  on}, pages 559--564. IEEE, 2016.
+
+\bibitem{nurvitadhi2016accelerating}
+E.~Nurvitadhi, D.~Sheffield, J.~Sim, A.~Mishra, G.~Venkatesh, and D.~Marr.
+\newblock Accelerating binarized neural networks: Comparison of fpga, cpu, gpu,
+  and asic.
+\newblock In {\em Field-Programmable Technology (FPT), 2016 International
+  Conference on}, pages 77--84. IEEE, 2016.
+
+\bibitem{pathania2014integrated}
+A.~Pathania, Q.~Jiao, A.~Prakash, and T.~Mitra.
+\newblock Integrated cpu-gpu power management for 3d mobile games.
+\newblock In {\em Proceedings of the 51st Annual Design Automation Conference},
+  pages 1--6. ACM, 2014.
+
 \bibitem{woo1995splash}
 S.~C. Woo, M.~Ohara, E.~Torrie, J.~P. Singh, and A.~Gupta.
 \newblock The splash-2 programs: Characterization and methodological

@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex latex8"] 1505864463 "latex8.aux" "latex8.bbl" "latex8" 1505864477
+["bibtex latex8"] 1506719727 "latex8.aux" "latex8.bbl" "latex8" 1506719728
   "./latex8.bst" 1505746838 20659 905972de4c2ed361a9e19361a92cf806 ""
-  "latex8.aux" 1505864477 696 3a7cd3468173f62863ff9bcb1ff5b47f ""
-  "latex8.bib" 1505863488 4995 1d6a9482a10078d43a06cc3cbbf12058 ""
+  "latex8.aux" 1506719728 1044 cb3d110b89ae9d117dce97913b17313b ""
+  "latex8.bib" 1506719695 1989 a9f929d45c01fb9aab85134cbfcf3384 ""
   (generated)
   "latex8.blg"
   "latex8.bbl"
-["pdflatex"] 1505864476 "latex8.tex" "latex8.pdf" "latex8" 1505864477
+["pdflatex"] 1506719728 "latex8.tex" "latex8.pdf" "latex8" 1506719728
   "/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -42,15 +42,17 @@
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1470425923 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1463979169 3873397 413fbfbbedb8e719ddc392043a7add02 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
-  "conclusion.tex" 1505791581 265 ca2c42d102317fc353f95907fa0110d4 ""
-  "introduction.tex" 1505863488 1066 6ebbdcb9fb3f02098d1dc58d2ce9c370 ""
-  "latex8.aux" 1505864477 696 3a7cd3468173f62863ff9bcb1ff5b47f ""
-  "latex8.bbl" 1505864470 1113 5c994b4a700b6a6dcf69da16a67d63cd "bibtex latex8"
-  "latex8.sty" 1505792357 4816 9ba46419b6350a2720670caf9e54fee4 ""
-  "latex8.tex" 1505861498 1275 8e10cf94481dc8333322d93e683f7528 ""
-  "objectives.tex" 1505864438 1672 9452e4d20369f3245edad62d23b612e8 ""
-  "timeline.tex" 1505792357 687 ca406b0d3b3c75b995c7802cd2a07ec5 ""
+  "conclusion.tex" 1506719660 268 86111f098b27084e855c85070665afde ""
+  "introduction.tex" 1506719514 2417 d2f68a3090229691fdbe9cb4dee1e39c ""
+  "latex8.aux" 1506719728 1044 cb3d110b89ae9d117dce97913b17313b ""
+  "latex8.bbl" 1506719728 1589 801a61cb1d6e0eff3f82a0d18a218107 "bibtex latex8"
+  "latex8.sty" 1126716308 4821 b677c7b0074f481f290aa9f93ec8774d ""
+  "latex8.tex" 1506719727 2022 e5a1fd72c378161802dbc292635013d2 ""
+  "methodology.tex" 1506719514 1689 91c5ee68ff6d14bc9abcd50cd0224c8a ""
+  "objectives.tex" 1506719514 605 637b22b0915d5c580d7354bd8f3121e5 ""
+  "relatedwork.tex" 1506719514 962 991e48d8e2ab0f69918db6236b12b013 ""
+  "timeline.tex" 1506719514 678 63d32ba9b372a8758af2651a6d2c86ea ""
   (generated)
-  "latex8.pdf"
   "latex8.log"
+  "latex8.pdf"
   "latex8.aux"
