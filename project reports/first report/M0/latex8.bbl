@@ -1,3 +1,16 @@
-\begin{thebibliography}{}\setlength{\itemsep}{-1ex}\small
+\begin{thebibliography}{1}\setlength{\itemsep}{-1ex}\small
+
+\bibitem{caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock {\em arXiv preprint arXiv:1408.5093}, 2014.
+
+\bibitem{woo1995splash}
+S.~C. Woo, M.~Ohara, E.~Torrie, J.~P. Singh, and A.~Gupta.
+\newblock The splash-2 programs: Characterization and methodological
+  considerations.
+\newblock In {\em Computer Architecture, 1995. Proceedings., 22nd Annual
+  International Symposium on}, pages 24--36. IEEE, 1995.
 
 \end{thebibliography}
