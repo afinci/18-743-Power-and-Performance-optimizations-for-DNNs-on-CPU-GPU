@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 SEP 2017 16:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 SEP 2017 16:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -91,13 +91,13 @@ Here is how much of TeX's memory you used:
  3917 multiletter control sequences out of 15000+600000
  17966 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 23i,7n,19p,900b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,7n,19p,1034b,288s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.e
 nc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on latex8.pdf (2 pages, 55353 bytes).
+Output written on latex8.pdf (2 pages, 55613 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
