@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  28 SEP 2017 15:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  29 SEP 2017 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -71,8 +71,8 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 32.
 
-(./introduction.tex) (./objectives.tex) (./timeline.tex) (./conclusion.tex)
-(./latex8.bbl
+(./introduction.tex) (./relatedwork.tex) (./objectives.tex) (./timeline.tex)
+(./conclusion.tex) (./latex8.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
@@ -83,8 +83,8 @@ LaTeX Warning: Empty `thebibliography' environment on input line 3.
 ]
 (./latex8.aux) ) 
 Here is how much of TeX's memory you used:
- 329 strings out of 493014
- 3926 string characters out of 6133351
+ 332 strings out of 493014
+ 3969 string characters out of 6133351
  56601 words of memory out of 5000000
  3914 multiletter control sequences out of 15000+600000
  15262 words of font info for 36 fonts, out of 8000000 for 9000
@@ -95,7 +95,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on latex8.pdf (1 page, 48831 bytes).
+Output written on latex8.pdf (1 page, 49146 bytes).
 PDF statistics:
  25 PDF objects out of 1000 (max. 8388607)
  17 compressed objects within 1 object stream
