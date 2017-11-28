@@ -21,4 +21,12 @@ To profile the relationship between performance and power of embedded platform u
 2. Compile MiBench and pick 3 benchmark to run on CPU (Branch, Memory, Compute)
     - Come up with a bi-axes plot that plots utilization and power consumption of CPU for different frequency. (3 curves)
 
-5. For each GPU setting (3x3), plot bi-axes plot that plots speed of GPU and overall power consumption of CPU tasks in different frequency (3x3)
+3. For each GPU setting (3x3), plot bi-axes plot that plots speed of GPU and overall power consumption of CPU tasks in different frequency (3x3)
+
+# Expected Results 
+
+1. Categorize CPU benchmarks under Temperature, Power, Memory, and Latency constraints for given DNN benchmarks. (Table)
+
+2. Compare with baseline results 
+
+3. (Potential Work) Do the same analysis for Training DNNs
