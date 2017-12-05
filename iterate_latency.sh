@@ -1,7 +1,13 @@
-for net in ResNet-152 googlenet alexnet
+for gpu_freq in 998 537 76
 do
-    for cpu in consumer automotive office
+    for cpu_freq in 1734 921 102
     do
-        python eval_latency.py logs/latency_${net}-deploy_${cpu}_$1_$2.log
+        for net in ResNet-152 googlenet alexnet
+        do
+            for cpu in consumer automotive office
+            do
+                python eval_latency.py logs/latency_${net}-deploy_${cpu}_${gpu_freq}_${cpu_freq}.log
+            done
+        done
     done
 done
