@@ -6,7 +6,7 @@ do
         do
             for cpu in consumer automotive office
             do
-                python eval_mem.py logs/util_${net}-deploy_${cpu}_${gpu_freq}_${cpu_freq}.log
+                python eval_mem.py logs_maxmin/util_${net}-deploy_${cpu}_${gpu_freq}_${cpu_freq}.log
             done
         done
     done
