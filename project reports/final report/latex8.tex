@@ -1,0 +1,59 @@
+
+%
+%  $Description: Author guidelines and sample document in LaTeX 2.09$ 
+%
+%  $Author: Ting-Wu Chin and Ahmet Fatih Inci $
+%  $Date: 2017/9/29 $
+%  $Revision: 1.?? $
+%
+
+\documentclass[times, 10pt,twocolumn]{article} 
+\usepackage{latex8}
+\usepackage{times}
+\usepackage{graphicx}
+
+%\documentstyle[times,art10,twocolumn,latex8]{article}
+
+%------------------------------------------------------------------------- 
+% take the % away on next line to produce the final camera-ready version 
+\pagestyle{empty}
+
+%------------------------------------------------------------------------- 
+
+\begin{document}
+
+\title{Power/Performance Analysis and Optimization for Deep Learning on CPU-GPU Platforms}
+
+\author{Ahmet Fatih Inci and Ting-Wu Chin  \\
+Carnegie Mellon University\\ Department of Electrical and Computer Engineering \\ \{ainci, tingwuc\}@andrew.cmu.edu\\
+}
+\maketitle
+\thispagestyle{empty}
+
+\begin{abstract}
+    Due to the intrinsic data parallelism characteristic of deep learning, GPU is a much better platform for deep learning applications compared to CPU. This work focuses on understanding what is left to be done for CPU given that GPU has to run deep learning applications on embedded platform. In modern mobile SoC, e.g. Nvidia Tegra X1, GPU and CPU shares same power budget and memory budget, and hence affects each other cohesively. By characterizing different deep learning workloads and CPU workloads under different kind of CPU-GPU frequencies, we investigate what is left to be done for CPU and how those workloads affect the tasks on GPU. 
+
+\end{abstract}
+
+\Section{Introduction}
+\input{"introduction.tex"}
+\Section{Related Work}
+\input{"relatedwork.tex"}
+\Section{Methodology}
+\input{"methodology"}
+\Section{Objectives and Deliverables}
+\input{"objectives.tex"}
+\Section{Results}
+\input{"results.tex"}
+%\Section{Timeline}
+%\input{timeline.tex}
+\Section{Conclusion}
+\input{conclusion.tex}
+% If there are cited but unreferenced resources, place them in the brackets 
+% on the line below.
+% \nocite{}
+\bibliographystyle{latex8}
+\bibliography{latex8}
+
+\end{document}
+

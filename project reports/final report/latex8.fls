@@ -1,0 +1,6 @@
+PWD /Users/afinci/Documents/GitHub/18-743-Power-and-Performance-optimizations-for-DNNs-on-CPU-GPU/project reports/second report /M1
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT latex8.bib
+OUTPUT latex8.log

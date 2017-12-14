@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: latex8.aux
+The style file: latex8.bst
+Database file #1: latex8.bib
+I was expecting a `,' or a `}'---line 74 of file latex8.bib
+ :   year = {2014}
+ :                =
+I'm skipping whatever remains of this entry
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            550 strings with 6083 characters,
+and the built_in function-call counts, 4740 in all, are:
+= -- 460
+> -- 287
+< -- 8
++ -- 114
+- -- 104
+* -- 345
+:= -- 743
+add.period$ -- 32
+call.type$ -- 9
+change.case$ -- 79
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 180
+empty$ -- 324
+format.name$ -- 104
+if$ -- 1024
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 18
+pop$ -- 100
+preamble$ -- 1
+purify$ -- 70
+quote$ -- 0
+skip$ -- 137
+stack$ -- 0
+substring$ -- 249
+swap$ -- 74
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 0
+while$ -- 42
+width$ -- 10
+write$ -- 107
+(There was 1 error message)
